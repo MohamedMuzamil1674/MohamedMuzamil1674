@@ -1,5 +1,20 @@
-<h1>Hi 👋, I'm Mohamed Muzamil,</h1>
-<p> I am an Android developer skilled in building scalable and user-friendly apps by using XML for the frontend and Java or Kotlin for the backend.</p>
+<h2>Hi 👋, I'm Mohamed Muzamil,</h2>
+<h2>👨‍💻 About Me</h2>
+<p> I am an Android developer skilled in building scalable and user-friendly android apps by using XML or Material design for the frontend and Java or Kotlin for the backend.</p>
+<h2>Tech Stack</h2>
+<p>
+>>📱 Android Developer with a strong focus on XML Material Design & Java
+
+>>☕ Solid knowledge of a responsive UI design for multi screen support
+
+>>🔥 Skilled with SQlite, Firebase & Firestore integration as database
+
+>>🌐 Working with External APIs for the designing of android apps
+
+>>⚡ Worked with TfLite models for making AI based android apps
+
+>>🐞 Strong app debugging and solid problem solving skills </p>
+
 <h2>Languages and Tools</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
