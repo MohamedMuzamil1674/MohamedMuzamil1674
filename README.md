@@ -12,7 +12,9 @@
 
 <p>⚡ Worked with TfLite models for making ML based android apps</p>
 
-<p>🐞 Strong app debugging and solid problem solving skills </p>
+<p>🐞 Strong problem solving, app testing and debugging skills </p>
+
+<p>💻 Working with Android Studio, DB Browser, Draw.io, and GitHub</p>
 
 <h2>Languages and Tools</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="42" height="42" /></a>
@@ -22,3 +24,6 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="42" height="42" /></a></p>
+<h2>🔮 Current Focus</h2>
+<p>🌠 Learning modern concepts of Kotlin for android development</p>
+<p>🚀 Learning modern tools for making scalable android development</p>
