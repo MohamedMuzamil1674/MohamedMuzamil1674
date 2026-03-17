@@ -25,5 +25,9 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="42" height="42" /></a></p>
 <h2>🔮 Current Focus</h2>
-<p>🌠 Learning modern concepts of Kotlin for android development</p>
-<p>🚀 Learning modern tools for making scalable android development</p>
+<p>⭐ Passionate about building clean, scalable, and impactful Android apps.</p>
+<p>🌠 Learning modern concepts of Kotlin for android development.</p>
+<p>🚀 Learning modern tools for making scalable android development.</p>
+<h2>🔗 Contact</h2>
+<p>📃 Facebook: https://www.facebook.com/share/1CMifzxTPJ/ </p>
+<p>📝 Email : Muzamil1674.3@gmail.com </p>
