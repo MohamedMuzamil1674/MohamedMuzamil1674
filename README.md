@@ -1,4 +1,4 @@
-<h1>Hi 👋‘‹, I'm Mohamed Muzamil,</h1>
+<h1>Hi 👋, I'm Mohamed Muzamil,</h1>
 <p> I am an Android developer skilled in building scalable and user-friendly apps by using XML for the frontend and Java or Kotlin for the backend.</p>
 <h2>Languages and Tools</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="42" height="42" /></a>
