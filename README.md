@@ -1,7 +1,7 @@
 <h2>Hi 👋, I'm Mohamed Muzamil,</h2>
 <h2>👨‍💻 About Me</h2>
 <p> I am an Android developer skilled in building scalable and user-friendly android apps by using XML or Material design for the frontend and Java or Kotlin for the backend.</p>
-<h2>Tech Stack</h2>
+<h2>💻 Tech Stack</h2>
 <p>📱 Android Developer with a strong focus on XML Material Design & Java</p>
 
 <p>☕ Solid knowledge of a responsive UI design for multi screen support</p> 
