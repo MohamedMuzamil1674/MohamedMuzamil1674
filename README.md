@@ -53,7 +53,7 @@ project history.</p>
 <p>🌠 Learning modern concepts of Kotlin for android development.</p>
 <p>🚀 Learning modern tools for making scalable android development.</p>
 
-<h2>📱 My Android Projects </h2>
+<h2>📱 My Current Achievements</h2>
 
 <p>🌠 I’ve built and shared several Android applications on GitHub where I experiment with different features, UI designs, ML Models, External APIs, and some unique backend integrations.</p>
 
