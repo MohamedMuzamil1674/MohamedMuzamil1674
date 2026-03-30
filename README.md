@@ -1,6 +1,7 @@
-<h2>Hi 👋, I'm Mohamed Muzamil,</h2>
-<h2>👨‍💻 About Me</h2>
-<p> I am an Android developer skilled in building scalable and user-friendly android apps by using XML or Material design for the frontend and Java or Kotlin for the backend.</p>
+<h3> 𝑨𝒔𝒔𝒂𝒍𝒂𝒎 𝒐 𝑨𝒍𝒂𝒊𝒌𝒖𝒎 🌟 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝑴𝒚 𝑷𝒓𝒐𝒇𝒊𝒍𝒆 🌸🌟. Meet me, I’m 𝑴𝒐𝒉𝒂𝒎𝒆𝒅 𝑴𝒖𝒛𝒂𝒎𝒊𝒍 - an Android Developer focused on building modern, scalable, and user-friendly android mobile applications. </h3>
+<h2>👨‍💻 About Myself</h2>
+<p> I am an Android developer skilled in building scalable and user-friendly android apps by using XML or Material design for the frontend and Java or Kotlin for the backend.My development journey started with a strong interest in how mobile apps work behind the scenes, and since then I’ve been focused on improving my skills and creating practical projects.</p>
+
 <h2>💻 Technical Skills</h2>
 <p>📱 Android Developer with a strong focus on XML Material Design & Java</p>
 
