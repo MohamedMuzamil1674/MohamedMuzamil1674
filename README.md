@@ -19,9 +19,13 @@
 
 <h2>💻 Computer Skills </h2>
 <p>🧾 Proficient in Microsoft Word, PowerPoint, and Excel for making documentations or presentations.</p> 
+
 <p>🖼️ Skilled in using draw.io for creating UML diagrams and system design diagrams for app features.</p> 
+
 <p>🌟 Familiar with DB Browser for creating, inspecting, and managing local SQLite database system.</p>
+
 <p>💻 Experienced in using Android Studio for building, testing, and maintaining native android apps.</p> 
+
 <p>✨ Familiar with GitHub for version control, tracking core changes, and managing
 project history.</p>
 
@@ -35,53 +39,71 @@ project history.</p>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="42" height="42" /></a></p>
 
 <h2>👨‍💻 Programming Skills</h2>
+
 <p>⚡ Proficient in Java and Familiar with Kotlin for Android development with solid knowledge of OOP concepts.
+
 <p>🧾 Skilled in using SQL for local database managing to make queries for data storage or retrieval.</p>
+
 <p>🖼️ Familiar with XML for designing android user interfaces with layouts and useful UI elements.</p>
+
 <p>📱 Skilled in training Machine learning models with Teachable Machine for native android apps.</p> 
 
 <h2>🔮 Current Focus</h2>
 <p>⭐ Passionate about building clean, scalable, and impactful Android apps.</p>
 <p>🌠 Learning modern concepts of Kotlin for android development.</p>
 <p>🚀 Learning modern tools for making scalable android development.</p>
-<h2>🔗 Contact</h2>
 
 <h2>📱 My Android Projects </h2>
 
+<p>🌠 I’ve built and shared several Android applications on GitHub where I experiment with different features, UI designs, ML Models, External APIs, and some unique backend integrations.</p>
+
 <h3>⚡ ML Vision Scanner (Machine Learning based Android Application) </h3>
+
 <p>🌟 Built an offline android application with XML, Google Material Design, Java, and Google ML Kit APIs for real time on device image processing activities.</p>
+
 <p>🌟 Integrated unique ML features such as image labelling, text recognition, image segmentation, and barcode 
 scanning in order to obtain real time information.</p>
+
 <p>🌟 Built document scanning functionality in order to convert images into a PDF file that can be locally stored 
 on device storage once file scanning is finished. </p>
+
 <p>🌟 Developed the application to use on-device machine learning inference for real time processing, enhanced 
 privacy, low latency, and full offline capability.</p>
-<p>🔗 GitHub Link: https://github.com//MohamedMuzamil1674/ml_vision_scanner_android_app_java</p>
 
 <h3>⚡ Plants Disease Finder (TensorFlow Lite based Android Application)</h3>
+
 <p>🌟 Built an offline android application with XML, Java, and TensorFlow Lite for plant disease detection via 
 on-device and real time scanning of images.</p>
+
 <p>🌟 Integrated an on-device machine learning model built with Teachable Machine that is capable to classify 
 plant leaves into unique 38 disease classes.</p>
+
 <p>🌟 Built a helper module that allows users to check distinct plant leaf diseases with labels and guide module 
 that provides cures to prevent all diseases.</p>
+
 <p>🌟 Built an intuitive user interface with camera integration for instant image capture to enable a smooth flow from scanning to health prediction result.</p>
-<p>🌟 GitHub Link: https://github.com//MohamedMuzamil1674/plants_disease_finder_android_app_java</p>
 
 <h3>⚡ Smart Student Assistant (SQLite and ML based Android Application)</h3>
+
 <p>🌟 Built an offline android application with XML, Google Material Design, Google ML Kit, and SQLite for 
 managing of useful academic resources.</p> 
+
 <p>🌟 Integrated on-device machine learning inference with Text Recognition API to digitize content from any printed or handwritten study materials.</p>
+
 <p>🌟 Built and integrated local SQLite database with CRUD operation to manage book details, study materials, and todo system for tracking routines.</p>
+
 <p>🌟 Integrated access to cloud-based study materials with external links in a form of Google Drive links with a unified interface of study materials.</p>
-<p>🌟 GitHub Link: https://github.com//MohamedMuzamil1674/smart_student_assistant_android_app_java
-</p>
 
 <h2>💻 Core Strengts</h2>
+
 <p>🌟 Strong analytical thinking with a structured approach to problem solving for resolution of activities.</p>
+
 <p>🌟 Ability to learn and adapt to modern technologies with proactive approach for continuous learning.</p> 
+
 <p>🌟 High attention to detail with core focus on creating clean, user friendly, and scalable android apps.</p>
+
 <p>🌟 Goal oriented with ability to work on my own, manage tasks safely, and deliver within deadlines.</p>
 
-<h2> 🔗 Contact Detail</h2>
+<h2> 💬 Let's Connect</h2>
+<p>✉️ If you have an android app idea or you need help in bringing your android project to life, then feel free to reach me out, I'm here to bring your ideas to real native android apps </p>
 <p>📝 Email : Muzamil1674.3@gmail.com </p>
